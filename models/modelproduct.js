@@ -14,7 +14,7 @@ const productSchema = new Schema({
         type: String,
         required: true
     },
-    number: {
+    phone: {
         type: String,
         required: true
     },
